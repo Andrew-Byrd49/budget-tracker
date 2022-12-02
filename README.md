@@ -34,4 +34,4 @@ Once you have clone the repo, run ``` npm i ``` then ``` npm start ``` to run th
  This project is liscensed under the MIT liscense.
  
 ## Contact
-Please email me at andrew@creativeaero.space if you have any questions
+Please email me at andrew.byrds2@gmail.com if you have any questions
